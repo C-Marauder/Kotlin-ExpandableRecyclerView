@@ -49,4 +49,4 @@
                 }
             }
 ```
-<img src="https://github.com/xqy666666/Kotlin-ExpandableRecyclerView/edit/master/expand.gif" width="300" height="600"/>
+<img src="https://github.com/xqy666666/Kotlin-ExpandableRecyclerView/blob/master/expand.gif" width="300" height="600"/>
