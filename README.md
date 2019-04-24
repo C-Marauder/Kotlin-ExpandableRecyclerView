@@ -1,4 +1,4 @@
-# 基于RecyclerView封装的折叠列表
+# 基于RecyclerView和DataBinding封装的折叠列表
 
 [ ![Download](https://api.bintray.com/packages/xqy666666/maven/ExpandableRecyclerView/images/download.svg?version=1.0.0) ](https://bintray.com/xqy666666/maven/ExpandableRecyclerView/1.0.0/link)
 
@@ -49,3 +49,4 @@
                 }
             }
 ```
+<img src="https://github.com/xqy666666/Kotlin-ExpandableRecyclerView/edit/master/expand.gif" width="300" height="600"/>
